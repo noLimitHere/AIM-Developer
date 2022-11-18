@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background-color: #FAEE06;
+    background-color:#FAED08;
     font-family: 'Orbitron', sans-serif;
     font-weight: 400;
     font-size: 1rem;
@@ -24,7 +24,39 @@ body {
     padding: 5%;
 }
 
-.cyber-title {
-    text-align: center;
+.version-web {
+    font-weight: 100;
+    font-size: 0.9rem;
 }
 
+.cyber-title {
+    text-align: center;
+    padding: 2%;
+}
+
+.cyber-phrase {
+    font-size: 1.08rem;
+}
+
+.cyber-span1 {
+    font-weight: bold;
+}
+
+.cyber-span2 {
+    font-weight: bold;
+}
+
+.javascript-container {
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+footer {
+    display: flex;
+}
+
+footer a {
+    background-color: #01fd72;
+    color: #000000;
+    text-decoration: none;
+}
